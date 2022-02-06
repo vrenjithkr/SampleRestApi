@@ -1,4 +1,4 @@
-package com.renji.bank.model;
+package com.renji.bank.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

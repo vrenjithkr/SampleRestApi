@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.renji.bank.model.User;
+import com.renji.bank.entity.User;
 import com.renji.bank.service.UserService;
 
 @RestController

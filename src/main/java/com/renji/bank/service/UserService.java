@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.renji.bank.model.User;
+import com.renji.bank.entity.User;
 import com.renji.bank.repository.UserRepository;
 
 @Service
